@@ -50,4 +50,4 @@ Data was imported into **PostgreSQL** for cleaning, normalization, and enrichmen
   - Equips management and sales teams with rapid access to critical metrics, promoting data-driven decision-making.
 
  ## 5. Screenshot
- (https://github.com/mannrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png)
+  ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/mannrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png))
