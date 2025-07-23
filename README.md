@@ -49,10 +49,4 @@ Data was imported into **PostgreSQL** for cleaning, normalization, and enrichmen
   - Influences inventory planning, marketing budgets, and promotional targeting based on actual sales data.
   - Equips management and sales teams with rapid access to critical metrics, promoting data-driven decision-making.
 
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/mannnrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png?raw=true)
-
-
-
 
