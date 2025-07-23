@@ -1,4 +1,4 @@
-# Audio Product Sales Analytics Dashboard**
+# Audio Product Sales Analytics Dashboard
 
 ## 1. Short Description / Purpose
 
@@ -9,7 +9,9 @@ A comprehensive Power BI dashboard for analyzing sales, revenue, and discount pe
 - **Power BI** (dashboard creation and visualization)
 - **Excel (CSV files)** (raw data storage and initial formatting)
 - **PostgreSQL** (for data cleaning, transformation, and extraction)
-- **DAX / Power Query** (for business logic and calculations in Power BI)
+- **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.
+• **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.
+- **Data Modeling** – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 
 ## 3. Data Source
 
@@ -48,4 +50,4 @@ Data was imported into **PostgreSQL** for cleaning, normalization, and enrichmen
   - Equips management and sales teams with rapid access to critical metrics, promoting data-driven decision-making.
 
  ## 5. Screenshot
- https://github.com/mannrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png
+ (https://github.com/mannrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png)
