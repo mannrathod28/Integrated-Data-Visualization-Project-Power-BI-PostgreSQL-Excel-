@@ -52,3 +52,4 @@ Data was imported into **PostgreSQL** for cleaning, normalization, and enrichmen
  ## 5. Screenshot
 ![Dashboard Screenshot](https://github.com/mannnrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png?raw=true)
 
+
