@@ -51,3 +51,5 @@ Data was imported into **PostgreSQL** for cleaning, normalization, and enrichmen
 
  ## 5. Screenshot
   ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/mannrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png))
+  [Snapshot of Dashboard.png
+](https://github.com/mannrathod28/Integrated-Data-Visualization-Project-Power-BI-PostgreSQL-Excel-/blob/main/Snapshot%20of%20Dashboard.png)
